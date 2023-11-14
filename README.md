@@ -4,7 +4,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
-- Live Site URL: [https://frontend-mentor-qr-code-component-chi.vercel.app/](https://frontend-mentor-qr-code-component-chi.vercel.app/)
+- Live Site URL: [Results summary component](https://frontend-mentor-results-summary-component-liart.vercel.app/)
 
 ### Built with
 
